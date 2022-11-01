@@ -1,6 +1,6 @@
 name: Try
 
-on: pull_request
+on: push
 push:
   branches: [master]
 pull_request:
